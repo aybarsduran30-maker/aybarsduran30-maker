@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+# Tech Stack & Tooling
 
 **Languages & Frameworks:**  
 `Python` `FastAPI` `SQL` `Pydantic` `Uvicorn (ASGI)`
@@ -28,7 +28,7 @@
 
 ---
 
-### 📌 Featured Project: AlphaMetrics
+#  Featured Project: AlphaMetrics
 
 > **AlphaMetrics** — Financial Intelligence & Market Risk RESTful Microservice
 
