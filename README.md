@@ -48,6 +48,6 @@
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/profilin](https://www.linkedin.com/in/aybars-duran-2a5282244/)
-- Email: [mailin@email.com](aybarsduran30@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/aybars-duran-2a5282244/)
+- Email: (aybarsduran30@gmail.com)
 - Location: Poznań, Poland 🇵🇱
