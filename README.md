@@ -1,14 +1,14 @@
-# Hello im Aybars Duran 👋
+# Hello im Aybars Duran 
 **Computer Science Student @ Collegium Da Vinci (Poznań, Poland)**  
 *Backend Engineer & Distributed Systems Enthusiast*
 
 ---
 
-### 🚀 About Me
-- 🎓 Currently pursuing Computer Science in **Poznań, Poland**.
-- 🛠️ Focusing on **High-Performance Backend Engineering, Microservices Architecture, and Distributed Systems**.
-- ⚡ Experienced in building asynchronous, authenticated REST APIs with **FastAPI**, containerization with **Docker**, and low-latency financial analytics.
-- 🎯 Actively looking for **Software Engineering / Backend / Working Student (Internship)** roles in Poznań & across Poland.
+# About Me
+-  Currently pursuing Computer Science in **Poznań, Poland**.
+-  Focusing on **High-Performance Backend Engineering, Microservices Architecture, and Distributed Systems**.
+-  Experienced in building asynchronous, authenticated REST APIs with **FastAPI**, containerization with **Docker**, and low-latency financial analytics.
+- Actively looking for **Software Engineering / Backend / Working Student (Internship)** roles in Poznań & across Poland.
 
 ---
 
@@ -39,7 +39,7 @@
 
 ---
 
-### 📈 Core Focus Areas
+###  Core Focus Areas
 - 🔹 Asynchronous Python Backend Development
 - 🔹 API Gateway Design & Microservices Security
 - 🔹 Financial Data Pipelines & Latency Optimization
@@ -47,7 +47,7 @@
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/aybars-duran-2a5282244/)
 - Email: (aybarsduran30@gmail.com)
 - Location: Poznań, Poland 🇵🇱
