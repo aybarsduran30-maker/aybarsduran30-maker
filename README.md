@@ -12,7 +12,7 @@
 
 ---
 
-# Tech Stack & Tooling
+# Tech Stack 
 
 **Languages & Frameworks:**  
 `Python` `FastAPI` `SQL` `Pydantic` `Uvicorn (ASGI)`
