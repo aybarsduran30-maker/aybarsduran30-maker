@@ -1,4 +1,4 @@
-# Hello im Aybars Duran 
+# Hello im Aybars 
 **Computer Science Student @ Collegium Da Vinci (Poznań, Poland)**  
 *Backend Engineer & Distributed Systems Enthusiast*
 
