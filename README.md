@@ -1,49 +1,37 @@
-# Hello im Aybars 
-**Information Technology Student @ Collegium Da Vinci (Poznań, Poland)**  
-*Backend Engineer & Distributed Systems Enthusiast*
+# Hi, I'm Aybars 
+**Computer Science Student @ Collegium Da Vinci (Poznań, Poland)**  
+*Low-Latency Systems & High-Performance Backend Engineer*
 
 ---
 
-# About Me
--  Currently pursuing Computer Science in **Poznań, Poland**.
--  Focusing on **High-Performance Backend Engineering, Microservices Architecture, and Distributed Systems**.
--  Experienced in building asynchronous, authenticated REST APIs with **FastAPI**, containerization with **Docker**, and low-latency financial analytics.
-- Actively looking for **Software Engineering / Backend / Working Student (Internship)** roles in Poznań & across Poland.
+### 🚀 About Me
+- 🎓 CS undergraduate focusing on **Low-Latency Systems, Microstructure Ingestion, and High-Performance Backend Pipelines**.
+- 🛠️ Specializing in **Modern C++ (C++20)** for low-overhead execution engines and **Python (FastAPI)** for real-time risk observability.
+- 🎯 Actively seeking **Software Engineer / C++ / Backend Intern & Working Student** roles in Poland & Remote.
 
 ---
 
-# Tech Stack 
+### 💻 Tech Stack
 
-**Languages & Frameworks:**  
-`Python` `FastAPI` `SQL` `Pydantic` `Uvicorn (ASGI)`
-
-**Databases & Caching:**  
-`PostgreSQL` `Redis` `SQLAlchemy`
-
-**DevOps & Infrastructure:**  
-`Docker` `Git` `GitHub Actions` `Linux`
-
-**API Testing & Collaboration:**  
-`Bruno` `Postman` `Swagger / OpenAPI`
+- **Systems & Languages:** `C++20` `Python 3.12` `SQL`
+- **Backend & Async:** `FastAPI` `Uvicorn` `WebSockets` `Pydantic v2` `REST APIs`
+- **Data & Storage:** `PostgreSQL` `Redis (Pub/Sub & Caching)` `SQLAlchemy`
+- **Infrastructure & Tools:** `Docker` `Linux` `Git` `CI/CD` `OpenAPI`
 
 ---
 
-#  Featured Project: AlphaMetrics
+### ⚡ Featured Systems
 
-> **AlphaMetrics** — Financial Intelligence & Market Risk RESTful Microservice
+#### 1. [NovaOrderBook-Engine](https://github.com/aybarsdrn/NovaOrderBook-Engine)
+> Ultra-low latency Limit Order Book (LOB) matching engine built in **C++20**.
+- Engineered cache-friendly order books with single-producer single-consumer (**SPSC**) lock-free ring buffers.
+- Enforced strict memory order semantics (`acquire`/`release`) for thread-safe lock-free communication.
 
-- High Throughput & Low Latency: Engineered an asynchronous API delivering market metrics and technical momentum indicators (RSI, Volatility) with sub-10ms response times.
-- Enterprise Security: Implemented custom header-based API key authentication (`X-API-KEY`) to enforce rate limiting and role-based access control.
-- Strict Schema Enforcement: Used Pydantic v2 data models for request serialization and type validation.
-- Testing & Tooling: Fully integrated with automated Bruno test suites and interactive OpenAPI / Swagger UI documentation.
-
----
-
-###  Core Focus Areas
-- 🔹 Asynchronous Python Backend Development
-- 🔹 API Gateway Design & Microservices Security
-- 🔹 Financial Data Pipelines & Latency Optimization
-- 🔹 Scalable Database Architectures
+#### 2. [AlphaMetrics Engine](https://github.com/aybarsdrn/Alpha-Metrics-Engine)
+> Real-time quantitative risk and market microstructure telemetry engine.
+- Streams live microstructure metrics (Tick VaR 95%, CVaR, OFI, L2 Spreads) via authenticated WebSockets.
+- Fully containerized autonomous pipeline running 24/7 with zero local dependencies.
+- **Live Terminal:** [alpha-metrics-engine.onrender.com](https://alpha-metrics-engine.onrender.com)
 
 ---
 
@@ -61,4 +49,4 @@
   </a>
 </p>
 
-- 📍 **Location:** Poznań, Poland 🇵🇱
+📍 **Location:** Poznań, Poland 🇵🇱
