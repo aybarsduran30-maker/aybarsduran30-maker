@@ -1,5 +1,5 @@
 # Hi, I'm Aybars 
-**Computer Science Student @ Collegium Da Vinci (Poznań, Poland)**  
+**Information Technology Student @ Collegium Da Vinci (Poznań, Poland)**  
 *Backend & Systems Software Engineer*
 
 ---
