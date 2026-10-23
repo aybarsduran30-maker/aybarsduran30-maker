@@ -5,7 +5,7 @@
 ---
 
 ###  About Me
--  CS undergraduate passionate about **High-Performance Backend Engineering, Concurrency, and Distributed Systems**.
+-  IT undergraduate passionate about **High-Performance Backend Engineering, Concurrency, and Distributed Systems**.
 -  Building reliable services with **Python (FastAPI)** and low-overhead core architectures with **Modern C++**.
 -  Seeking **Software Engineer / Backend / C++ Intern & Working Student** roles in Poland.
 
